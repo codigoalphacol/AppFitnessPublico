@@ -1,0 +1,59 @@
+name: app_fitness
+description: A new Flutter project.
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.0.0-dev.68.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  cupertino_icons: ^0.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+
+flutter:
+
+
+  uses-material-design: true
+  
+  assets:
+    - img/pierna2.jpg
+    - img/pesas.jpg
+    - img/cinta.jpg
+    - img/cinta2.jpg
+    - img/abdomen2.jpg
+    - img/peso.jpg
+    - img/pierna2.jpg
+    - img/gluteos.jpg
+    - img/gluteos2.jpg
+    - img/pierna.jpg
+    - img/barra2.jpg
+    - img/rusa.jpg
+    - img/pierna3.jpg
+    - img/cinta2.jpg
+    - img/peso2.jpg
+    - img/mancuernas.jpg
+    - img/estiramiento.jpg
+    - img/gluteos.jpg
+    - img/barra.jpg
+    - img/pierna5.png
+    - img/otro.png
+    - img/otro1.png
+
+
+
+
+
+
+ 
+
+ 
