@@ -1,6 +1,7 @@
 # app_fitness
 
-A new Flutter project.
+Una AppFitness creada con Flutter, video con la explicacion del codigo en 
+en el canal https://www.youtube.com/channel/UCqCqeYUukFVUleZpOb7_R1Q
 
 ## Getting Started
 
