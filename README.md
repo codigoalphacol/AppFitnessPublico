@@ -1,5 +1,11 @@
 # app_fitness
 
+![Codigo Alpha Flutter]
+
+![alt text](https://github.com/codigoalphacol/AppFitnessPublico/blob/master/assets/images/appfitness.png) 
+
+
+
 Una AppFitness creada con Flutter, video con la explicacion del codigo en 
 en el canal https://www.youtube.com/channel/UCqCqeYUukFVUleZpOb7_R1Q
 
